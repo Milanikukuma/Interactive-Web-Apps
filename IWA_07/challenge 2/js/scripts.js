@@ -12,7 +12,6 @@ else if (nickname) {
 else if (firstname) {
   console.log(`Good morning, ${firstname}!`);
 } 
-
 else { 
   console.log("Good morning!");
 }
